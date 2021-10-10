@@ -1,0 +1,44 @@
+{
+  "name": "easy-sql",
+  "version": "1.0.0",
+  "description": "SQL database creator and manager, with pre-configured security system.",
+  "main": "main.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davieid/CRUD.git"
+  },
+  "keywords": [
+    "sql",
+    "database",
+    "table",
+    "rows",
+    "columns",
+    "javascript",
+    "js",
+    "secured",
+    "fast",
+    "express",
+    "admin",
+    "monitor",
+    "ml",
+    "ai",
+    "ml5"
+  ],
+  "author": "Aiyegbayo Bolaji",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/davieid/CRUD/issues"
+  },
+  "homepage": "https://github.com/davieid/CRUD#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "ml5": "^0.7.1",
+    "mysql2": "^2.3.0"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2"
+  }
+}
