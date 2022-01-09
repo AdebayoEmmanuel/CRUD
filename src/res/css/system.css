@@ -1,0 +1,9 @@
+#app button{
+    text-transform: uppercase;
+    font-family: 'boldSys';
+    font-weight: 800;
+    font-size: 14px;
+}
+#app li{
+    list-style: none;
+}

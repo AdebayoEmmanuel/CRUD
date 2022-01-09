@@ -1,7 +1,7 @@
 {
-  "name": "easy-sql",
+  "name": "app-store-js",
   "version": "1.0.0",
-  "description": "SQL database creator and manager, with pre-configured security system.",
+  "description": "Web application creator with database support (SQL) and management, with pre-configured security system.",
   "main": "main.js",
   "scripts": {
     "test": "node test.js"
@@ -34,8 +34,9 @@
   },
   "homepage": "https://github.com/davieid/CRUD#readme",
   "dependencies": {
+    "ejs": "^3.1.6",
     "express": "^4.17.1",
-    "ml5": "^0.7.1",
+    "ml5": "^1.0.0",
     "mysql2": "^2.3.0"
   },
   "devDependencies": {
