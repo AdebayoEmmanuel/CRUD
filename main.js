@@ -5,3 +5,5 @@ App = {
     activity: new Activity( configuration),
     storage: new Storage( configuration)
 };
+
+/*What's this CRUD project about?*/
